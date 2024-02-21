@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN stack course**
 
-- 👨‍💻 All of my projects are available at [https://frabjous-choux-46dfaa.netlify.app/](https://frabjous-choux-46dfaa.netlify.app/)
+- 👨‍💻  Portfolio   [https://frabjous-choux-46dfaa.netlify.app/](https://frabjous-choux-46dfaa.netlify.app/)
 
 - 📫 How to reach me **bhavanilakshmi533@gmail.com**
 
