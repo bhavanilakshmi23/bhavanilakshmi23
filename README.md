@@ -53,7 +53,8 @@
 </div>
 
 ###
-
+<h3 align="left">Connect with me:</h3>
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/bhavanilakshmi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -64,6 +65,17 @@
 </div>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavanilakshmi23&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanilakshmi23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavanilakshmi23" alt="bhavanilakshmi23" /></a> </p>
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavanilakshmi23&show_icons=true&locale=en&layout=compact" alt="bhavanilakshmi23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavanilakshmi23&show_icons=true&locale=en" alt="bhavanilakshmi23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanilakshmi23&" alt="bhavanilakshmi23" /></p>
 
 <div align="right">
   <img height="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
